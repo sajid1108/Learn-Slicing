@@ -30,10 +30,11 @@ export default function TweetCard() {
             className="w-5 h-5"
           />
         </div>
+
         {/* Konten Tweet */}
         <p className="mt-4 text-gray-300">
-          Why do they call it 'debugging' when it feels more like 'wildly
-          guessing and hoping for the best'?
+          Why do they call it &apos;debugging&apos; when it feels more like
+          &apos;wildly guessing and hoping for the best&apos;?
           <span className="text-blue-400">
             {" "}
             #programming #coding #debugging
